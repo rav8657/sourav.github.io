@@ -5,13 +5,15 @@
     --green:#d62626e5;
     --black:#444;
     --light-color:#777;
-    --bg-color:#ece1e1d7;
+    --bg-color:#ffffff;
     --border:.1rem solid rgba(0,0,0,.2);
     --box-shadow:.4rem .4rem 1rem #ccc,
                 -.4rem -.4rem 1rem #fff;
     --box-shadow-inset:.4rem .4rem 1rem #ccc inset,
                       -.4rem -.4rem 1rem #fff inset;
 }
+/* --bg-color:#DFE3EE;
+--bg-color:#eceaead7; */
 
 *{
     /* font-family: 'Poppins', sans-serif; */
